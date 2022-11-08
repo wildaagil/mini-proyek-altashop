@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create Product","Create Valid Product","SUCCESS","2022-11-07T11:04:51.6326654+07:00[Asia/Bangkok]","0.0","10.32"
+"Get All Product","Get All Products","SUCCESS","2022-11-07T11:04:51.6806365+07:00[Asia/Bangkok]","0.0","11.13"
+"Get Id Product","Get Valid Id Products","SUCCESS","2022-11-07T11:04:52.0993965+07:00[Asia/Bangkok]","0.0","12.62"
+"Get Id Product","Get Invalid Id Products","SUCCESS","2022-11-07T11:05:04.7591418+07:00[Asia/Bangkok]","0.0","1.47"
+"Get Rating","Get Rating Product","SUCCESS","2022-11-07T11:04:51.9464852+07:00[Asia/Bangkok]","0.0","12.83"

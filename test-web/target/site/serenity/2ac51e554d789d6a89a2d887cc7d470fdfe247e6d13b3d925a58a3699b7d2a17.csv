@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Login account","SUCCESS","2022-11-04T21:54:20.8024876+07:00[Asia/Bangkok]","0.0","47.89"
+"Order","Order without add product","SUCCESS","2022-11-04T21:56:00.1827423+07:00[Asia/Bangkok]","0.0","9.24"
+"Register","Login account","SUCCESS","2022-11-04T21:56:09.8686089+07:00[Asia/Bangkok]","0.0","50.4"

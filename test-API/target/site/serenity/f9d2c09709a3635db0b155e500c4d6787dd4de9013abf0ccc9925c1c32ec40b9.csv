@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create Categori","Create valid categori","SUCCESS","2022-11-07T11:04:51.9135036+07:00[Asia/Bangkok]","0.0","10.03"
+"Create Categori","Create invalid categori name","SUCCESS","2022-11-07T11:05:02.6833334+07:00[Asia/Bangkok]","0.0","1.49"
+"Create Categori","Create invalid categori description","SUCCESS","2022-11-07T11:05:04.1834709+07:00[Asia/Bangkok]","0.0","1.49"

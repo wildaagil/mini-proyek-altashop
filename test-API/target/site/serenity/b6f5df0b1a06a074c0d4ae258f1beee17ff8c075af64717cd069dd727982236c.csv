@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get Id Categori","Get Valid Id Categori","SUCCESS","2022-11-07T11:04:51.8685281+07:00[Asia/Bangkok]","0.0","12.91"
+"Get Id Categori","Get Invalid Id Products","SUCCESS","2022-11-07T11:05:04.8031158+07:00[Asia/Bangkok]","0.0","1.49"

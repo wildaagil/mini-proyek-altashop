@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Order","Order with one phone","SUCCESS","2022-11-04T21:55:19.6736722+07:00[Asia/Bangkok]","0.0","13.33"
+"Order","Order with add qty","SUCCESS","2022-11-04T21:55:33.6058394+07:00[Asia/Bangkok]","0.0","13.76"
+"Order","Order with reduce qty","SUCCESS","2022-11-04T21:55:47.815405+07:00[Asia/Bangkok]","0.0","11.79"
+"Order","Order without add product","SUCCESS","2022-11-04T21:56:00.1827423+07:00[Asia/Bangkok]","0.0","9.24"

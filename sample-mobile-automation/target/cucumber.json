@@ -1,0 +1,96 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-04T07:40:49.478Z",
+        "before": [
+          {
+            "result": {
+              "duration": 15186277300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Add Product",
+        "description": "",
+        "id": "add-product;add-product",
+        "after": [
+          {
+            "result": {
+              "duration": 524698200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10471594000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I have logged in",
+            "match": {
+              "location": "com.example.steps.LogoutStep.iHaveLoggedIn()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 722585800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click buy button",
+            "match": {
+              "location": "com.example.steps.AddStep.iClickBuyButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 174899600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "The product is added to the cart",
+            "match": {
+              "location": "com.example.steps.AddStep.theProductIsAddedToTheCart()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Add"
+          }
+        ]
+      }
+    ],
+    "name": "Add Product",
+    "description": "  As a user\n  I want to Add product\n  so I can product to my cart",
+    "id": "add-product",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/AddProduct.feature",
+    "tags": [
+      {
+        "name": "@Add",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
